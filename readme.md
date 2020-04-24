@@ -1,1 +1,3 @@
 # El objetico de este proyecto...
+
+1. Voy a  analizar los datos
